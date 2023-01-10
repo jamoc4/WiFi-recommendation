@@ -9,7 +9,7 @@
 <div class="wrapper">
 
 <header>
-    <a href="お問い合わせ.html">お問い合わせ</a> <a href="トップページ.html">トップページ</a>
+    <a href="お問い合わせ.html">お問い合わせ</a> <a href="https://github.com/jamoc4/jamoc4.github.io/blob/main/Inquiry">トップページ</a>
     <a hreflang="English">English</a>
 </header>
 
