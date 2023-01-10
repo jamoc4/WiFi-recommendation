@@ -3,10 +3,6 @@
   <meta name="viewport">
 </head>
 
-<header>
-<h1>WiFi recommendation</h1>
-</header>
-
 <div class="wrapper">
 
 <MAIN>
@@ -51,3 +47,71 @@
             </UL>
 </MAIN>
 </DIV>
+
+
+<DIV>
+<aside>
+    <nav>
+    <h4>動画配信環境も一緒に整えよう</h4>
+    <ul>収録にはこちらを!!
+        <li><table border="0" cellpadding="0" cellspacing="0"><tr><td><div style="border:1px solid #95a5a6;border-radius:.75rem;background-color:#FFFFFF;width:504px;margin:0px;padding:5px;text-align:center;overflow:hidden;"><table><tr><td style="width:240px"><a href="https://hb.afl.rakuten.co.jp/ichiba/2e7a7c15.0067a826.2e7a7c16.1ca2b286/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskyudirect%2Fwebkmr%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"  ><img src="https://hbb.afl.rakuten.co.jp/hgb/2e7a7c15.0067a826.2e7a7c16.1ca2b286/?me_id=1374745&item_id=10000058&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fskyudirect%2Fcabinet%2F07581823%2F08743415%2F08766805%2F25.jpg%3F_ex%3D240x240&s=240x240&t=picttext" border="0" style="margin:2px" alt="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]" title="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]"></a></td><td style="vertical-align:top;width:248px;"><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px;word-wrap:break-word"><a href="https://hb.afl.rakuten.co.jp/ichiba/2e7a7c15.0067a826.2e7a7c16.1ca2b286/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskyudirect%2Fwebkmr%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"  >【10倍ポイント・クーポンで3180円】「楽天1位」 Webカメラ マイク内蔵 フルHD 1080P ウェブカメラ 120°広角画角 500万画素 30FPS 自動光補正 PCカメラ ドライバ不要 usbカメラ 小型 軽量 在宅勤務 ビデオ会議 テレワーク用カメラ オンライン授業 教育用 動画配信 おすすめ</a><br><span >価格：3380円（税込、送料無料)</span> <span style="color:#BBB">(2022/12/31時点)</span></p><div style="margin:10px;"><a href="https://hb.afl.rakuten.co.jp/ichiba/2e7a7c15.0067a826.2e7a7c16.1ca2b286/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskyudirect%2Fwebkmr%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"  ><img src="https://static.affiliate.rakuten.co.jp/makelink/rl.svg" style="float:left;max-height:27px;width:auto;margin-top:0"></a><a href="https://hb.afl.rakuten.co.jp/ichiba/2e7a7c15.0067a826.2e7a7c16.1ca2b286/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskyudirect%2Fwebkmr%2F%3Fscid%3Daf_pc_bbtn&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ==" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"  ><div style="float:right;width:41%;height:27px;background-color:#bf0000;color:#fff!important;font-size:12px;font-weight:500;line-height:27px;margin-left:1px;padding: 0 12px;border-radius:16px;cursor:pointer;text-align:center;">楽天で購入</div></a></div></td></tr></table></div><br><p style="color:#000000;font-size:12px;line-height:1.4em;margin:5px;word-wrap:break-word"></p></td></tr></table></li>
+        <li><table border="0" cellpadding="0" cellspacing="0"><tr><td><div style="border:1px solid #95a5a6;border-radius:.75rem;background-color:#FFFFFF;width:504px;margin:0px;padding:5px;text-align:center;overflow:hidden;"><table><tr><td style="width:240px"><a href="https://hb.afl.rakuten.co.jp/ichiba/2e7a7d9b.8e51396c.2e7a7d9c.a8e5bf2c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fohnitaya%2Fds-2362732%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"  ><img src="https://hbb.afl.rakuten.co.jp/hgb/2e7a7d9b.8e51396c.2e7a7d9c.a8e5bf2c/?me_id=1259375&item_id=10840015&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fohnitaya%2Fcabinet%2Fdsproducts%2F833%2F0002362732-1.jpg%3F_ex%3D240x240&s=240x240&t=picttext" border="0" style="margin:2px" alt="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]" title="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]"></a></td><td style="vertical-align:top;width:248px;"><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px;word-wrap:break-word"><a href="https://hb.afl.rakuten.co.jp/ichiba/2e7a7d9b.8e51396c.2e7a7d9c.a8e5bf2c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fohnitaya%2Fds-2362732%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"  >（まとめ）エレコム 高精細FullHD対応500万画素Webカメラ UCAM-C750FBBK 1台 【×3セット】</a><br><span >価格：20010円（税込、送料無料)</span> <span style="color:#BBB">(2022/12/31時点)</span></p><div style="margin:10px;"><a href="https://hb.afl.rakuten.co.jp/ichiba/2e7a7d9b.8e51396c.2e7a7d9c.a8e5bf2c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fohnitaya%2Fds-2362732%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"  ><img src="https://static.affiliate.rakuten.co.jp/makelink/rl.svg" style="float:left;max-height:27px;width:auto;margin-top:0"></a><a href="https://hb.afl.rakuten.co.jp/ichiba/2e7a7d9b.8e51396c.2e7a7d9c.a8e5bf2c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fohnitaya%2Fds-2362732%2F%3Fscid%3Daf_pc_bbtn&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ==" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"  ><div style="float:right;width:41%;height:27px;background-color:#bf0000;color:#fff!important;font-size:12px;font-weight:500;line-height:27px;margin-left:1px;padding: 0 12px;border-radius:16px;cursor:pointer;text-align:center;">楽天で購入</div></a></div></td></tr></table></div><br><p style="color:#000000;font-size:12px;line-height:1.4em;margin:5px;word-wrap:break-word"></p></td></tr></table></li>
+    </ul>
+    </nav>
+</DIV>
+
+<DIV>
+    <nav>
+        <h4>明るさの調製はこちら</h4>
+        <ul>
+            <li><table border="0" cellpadding="0" cellspacing="0"><tr><td><div style="border:1px solid #95a5a6;border-radius:.75rem;background-color:#FFFFFF;width:504px;margin:0px;padding:5px;text-align:center;overflow:hidden;"><table><tr><td style="width:240px"><a href="https://hb.afl.rakuten.co.jp/ichiba/2e7a7d9b.8e51396c.2e7a7d9c.a8e5bf2c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fohnitaya%2F4961607005422%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"  ><img src="https://hbb.afl.rakuten.co.jp/hgb/2e7a7d9b.8e51396c.2e7a7d9c.a8e5bf2c/?me_id=1259375&item_id=10473198&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fohnitaya%2Fcabinet%2Fassynavi_image_22%2Fmain260%2F4961607005422.jpg%3F_ex%3D240x240&s=240x240&t=picttext" border="0" style="margin:2px" alt="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]" title="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]"></a></td><td style="vertical-align:top;width:248px;"><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px;word-wrap:break-word"><a href="https://hb.afl.rakuten.co.jp/ichiba/2e7a7d9b.8e51396c.2e7a7d9c.a8e5bf2c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fohnitaya%2F4961607005422%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"  >ケンコー・トキナー LEDライト コンパクト三脚付き 8インチLEDリングライト 明るさ10段階調整 動画配信・Vlog用 KL-04RL KEN005422</a><br><span >価格：9933円（税込、送料別)</span> <span style="color:#BBB">(2022/12/31時点)</span></p><div style="margin:10px;"><a href="https://hb.afl.rakuten.co.jp/ichiba/2e7a7d9b.8e51396c.2e7a7d9c.a8e5bf2c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fohnitaya%2F4961607005422%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"  ><img src="https://static.affiliate.rakuten.co.jp/makelink/rl.svg" style="float:left;max-height:27px;width:auto;margin-top:0"></a><a href="https://hb.afl.rakuten.co.jp/ichiba/2e7a7d9b.8e51396c.2e7a7d9c.a8e5bf2c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fohnitaya%2F4961607005422%2F%3Fscid%3Daf_pc_bbtn&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ==" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"  ><div style="float:right;width:41%;height:27px;background-color:#bf0000;color:#fff!important;font-size:12px;font-weight:500;line-height:27px;margin-left:1px;padding: 0 12px;border-radius:16px;cursor:pointer;text-align:center;">楽天で購入</div></a></div></td></tr></table></div><br><p style="color:#000000;font-size:12px;line-height:1.4em;margin:5px;word-wrap:break-word"></p></td></tr></table>
+            </li>
+        </ul>
+    </nav>
+</aside>
+  </DIV>
+  
+<footer>
+    <adress>
+        このサイトに関するお問い合わせ先：
+        <a href="hinatrip@gmail.com">jamoc4@gmail.com</a>
+    </adress>
+    <p><small>Copyright © 2023 jamoc.       
+    </small></p>
+</footer>
+</div>
+
+<style>
+    .wrapper{
+    display:grid;
+    grid-template-rows: auto 1fr 80px;
+    grid-template-columns: auto 300px;
+    height: 100vh;
+    
+}
+header{
+    grid-row: 1;
+    grid-column: 1 / span 2;
+    
+}
+main{
+    grid-row: 2;
+    grid-column: 1;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+aside{
+    grid-row: 2;
+    grid-column: 2;
+}
+footer{
+    grid-row: 3;
+    grid-column: 1 / span2;
+    background-color: rgb(180, 248, 248);
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+</style>
