@@ -8,11 +8,6 @@
 
 <div class="wrapper">
 
-<header>
-    <a href="お問い合わせ.html">お問い合わせ</a> <a href="https://github.com/jamoc4/jamoc4.github.io/blob/main/Inquiry">トップページ</a>
-    <a hreflang="English">English</a>
-</header>
-
 <MAIN>
 <h1>動画配信や閲覧者のためのWiFiのすすめ</h1>
 年間契約なら毎日無制限で利用できるこれらのWiFiがおすすめ!!ほとんどのWiFiは一日3~5Gまでといった縛りがありますが、これなら縛りを気にせずに使用可能です!!特に動画作成・配信・閲覧を多くする方や大勢での利用にはこれがおすすめ!!
@@ -78,9 +73,9 @@
             </li>
         </ul>
     </nav>
-    </DIV>
 </aside>
-
+  </DIV>
+  
 <footer>
     <adress>
         このサイトに関するお問い合わせ先：
