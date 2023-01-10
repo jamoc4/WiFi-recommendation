@@ -8,8 +8,6 @@
 
 <div class="wrapper">
 
-<body>
-
 <header>
     <a href="お問い合わせ.html">お問い合わせ</a> <a href="トップページ.html">トップページ</a>
     <a hreflang="English">English</a>
@@ -88,11 +86,9 @@
         このサイトに関するお問い合わせ先：
         <a href="hinatrip@gmail.com">jamoc4@gmail.com</a>
     </adress>
-    <p><small>Copyright © 2022 Hinano Kouenkai reserved.       
+    <p><small>Copyright © 2023 jamoc.       
     </small></p>
 </footer>
-
-</body>
 
 </div>
 
