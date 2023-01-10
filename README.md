@@ -89,7 +89,6 @@
     <p><small>Copyright © 2023 jamoc.       
     </small></p>
 </footer>
-
 </div>
 
 <style>
